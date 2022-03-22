@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @Victoria-Sampaio
+- 👀 I’m interested in learn
+- 🌱 I´m currently a software engineering student
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me  ==> victoriacossampaio@gmail.com
+
+- 👋 Oi, eu sou @Victoria-Sampaio
+- 👀 Tenho interesse em aprender
+- 🌱 Atualmente sou estudante de engenharia de software
+- 💞️ Estou procurando colaborar em projetos
+- 📫 Como me contatar ==> victoriacossampaio@gmail.com
